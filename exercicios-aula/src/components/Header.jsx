@@ -39,6 +39,7 @@ const Header = () => {
                 <ul>
                     <li><NavLink to={"/"}>Aula35</NavLink></li>
                     <li><NavLink to={"/aula37"}>Aula37</NavLink></li>
+                    <li><NavLink to={"/aula38"}>Aula38</NavLink></li>
                 </ul>
             </nav>
         </HeaderContainer>

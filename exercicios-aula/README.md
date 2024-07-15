@@ -22,7 +22,7 @@ npm install
 yarn install
 
 # Instale o React Router e Styled Components utilizando npm
-npm install react-router-dom styled-components
+npm install react-router-dom styled-components primereact primeicons
 
 # Ou, se estiver usando yarn
 yarn add react-router-dom styled-components
